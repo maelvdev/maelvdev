@@ -5,13 +5,13 @@
 
 - 🌱 J'approfondis mes connaissances en **python** et **développement web**
 
-- 👨‍💻 Retrouvez tous mes projets : [github.com/maelvdev](github.com/maelvdev)
+- 👨‍💻 Retrouvez tous mes projets : **[github.com/maelvdev](github.com/maelvdev)**
 
 - 📫 Me contacter : **maelv.contact@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/mael-vauthier-dev/](linkedin.com/in/mael-vauthier-dev/)
+- 📄 Pour en savoir plus : **[linkedin.com/in/mael-vauthier-dev/](linkedin.com/in/mael-vauthier-dev/)**
 
-- ⚡ Fun fact **Ça marche sur ma machine ¯\\_(ツ)_/¯**
+- ⚡ Fun fact Ça marche sur ma machine ¯\\_(ツ)_/¯
 
 <h3 align="left">Réseaux:</h3>
 <p align="left">
