@@ -9,7 +9,7 @@
 
 - 📫 Me contacter : **maelv.contact@gmail.com**
 
-- 📄 Pour en savoir plus : **[linkedin.com/in/mael-vauthier-dev/](linkedin.com/in/mael-vauthier-dev/)**
+- 📄 Pour en savoir plus : **[Mon profil LinkedIn](https://www.linkedin.com/in/mael-vauthier-dev/)**
 
 - ⚡ Fun fact Ça marche sur ma machine ¯\\_(ツ)_/¯
 
