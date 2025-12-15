@@ -1,7 +1,7 @@
 <h1 align="center">Maël Vauthier Développeur en devenir</h1>
 <h3 align="center">Je conçois des applications intuitives et performantes !</h3>
 
-- 🔭 I’m currently working on **RiotAPIProject**
+- 🔭 I’m currently working on **[RiotAPIProject](https://github.com/maelvdev/RiotAPIProject)**
 
 - 🌱 I’m currently learning **python**
 
