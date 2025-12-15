@@ -1,8 +1,6 @@
 <h1 align="center">Maël Vauthier Développeur en devenir</h1>
 <h3 align="center">Je conçois des applications intuitives et performantes !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maelvdev" alt="maelvdev" /></a> </p>
-
 - 🔭 I’m currently working on **RiotAPIProject**
 
 - 🌱 I’m currently learning **python**
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/mael-vauthier-dev/](linkedin.com/in/mael-vauthier-dev/)
 
-- ⚡ Fun fact **Ça marche sur ma machine ¯\_(ツ)_/¯**
+- ⚡ Fun fact **Ça marche sur ma machine ¯\\_(ツ)_/¯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
